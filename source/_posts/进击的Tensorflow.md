@@ -3,7 +3,7 @@ title: 进击的Tensorflow
 date: 2017-04-25 22:07:47
 tags:
 categories: 分享集
-thumbnail: http://i2.muimg.com/567571/8a8c33b8e8f2438c.png
+thumbnail: # http://i2.muimg.com/567571/8a8c33b8e8f2438c.png
 ---
 
 开源人工智能神器——TensorFlow
