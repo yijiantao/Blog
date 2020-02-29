@@ -3,7 +3,7 @@ title: PyMySQL
 date: 2016-11-18 17:15:28
 tags:
 categories: 技术向
-thumbnail: http://i2.muimg.com/567571/98262c0ef87fbc73.png
+thumbnail: # http://i2.muimg.com/567571/98262c0ef87fbc73.png
 ---
 
 pymsql是Python中操作MySQL的模块，其使用方法和MySQLdb几乎相同。但目前pymysql支持python3.x而后者不支持3.x版本。

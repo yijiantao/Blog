@@ -3,7 +3,7 @@ title: UbuntuKylin13.10下安装配置Theano
 date: 2016-04-16 18:30:22
 tags:
 categories: 技术向
-thumbnail: http://i4.buimg.com/567571/6cf2c02911d0cda6.png
+thumbnail: # http://i4.buimg.com/567571/6cf2c02911d0cda6.png
 ---
 
   今天在师兄的引领下开始学习基于Python的类库——Theano. 来自网上的一种说法是Theano基于表示矩阵向量的numpy和包含大量数学功能的scipy模块。对于数据的处理来说Python还是具有一定的优势。打算配置Theano时，因为官网的一句温馨提示（“除Linux64位机外，其他OS并不能很好用于测试”），才想起来打开那尘封已久的Kubuntu13.10。遂毅然决定在Ubuntu下安装配置Theano。
