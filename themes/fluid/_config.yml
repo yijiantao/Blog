@@ -393,7 +393,7 @@ footer:
   # 展示网站的 PV、UV 统计数
   # Display website PV and UV statistics
   statistics:
-    enable: false
+    enable: true
 
     # 统计数据来源，使用 leancloud 需要设置 `web_analytics: leancloud` 中的参数；使用 busuanzi 不需要额外设置，但是有时不稳定，另外本地运行时 busuanzi 显示统计数据很大属于正常现象，部署后会正常
     # Data source. If use leancloud, you need to set the parameter in `web_analytics: leancloud`
@@ -412,11 +412,11 @@ footer:
     # ICP证号
     icp_text: 粤ICP备2021164067号
     # 公安备案号，不填则只显示ICP
-    police_text: 粤ICP备2021164067号
-    # 公安备案的编号，用于URL跳转查询
-    police_code: beian.miit.gov.cn
-    # 公安备案的图片. 为空时不显示备案图片
-    police_icon: /img/police_beian.png
+    # police_text: 粤ICP备2021164067号
+    # # 公安备案的编号，用于URL跳转查询
+    # police_code: beian.miit.gov.cn
+    # # 公安备案的图片. 为空时不显示备案图片
+    # police_icon: /img/police_beian.png
 
 
 #---------------------------
