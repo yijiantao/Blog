@@ -833,7 +833,7 @@ category:
 # Tag Page
 #---------------------------
 tag:
-  enable: false # true
+  enable: false 
   banner_img: /img/default.png
   banner_img_height: 80
   banner_mask_alpha: 0.3
